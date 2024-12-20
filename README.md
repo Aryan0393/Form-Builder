@@ -6,7 +6,7 @@ A basic form builder for react-native apps. Using a user defined template, it re
 ### Installation
 
 ```shell
-$ npm i @coffeebeanslabs/react-native-form-builder
+$ npm i /react-native-form-builder
 ```
 
 ```shell
